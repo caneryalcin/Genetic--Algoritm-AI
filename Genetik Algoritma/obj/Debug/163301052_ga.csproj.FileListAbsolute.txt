@@ -1,0 +1,10 @@
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\163301052_ga.csprojAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\163301052_ga.csproj.GenerateResource.cache
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\163301052_ga.csproj.CoreCompileInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\caner\OneDrive\Masaüstü\yapayzeka\163301052_ga\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb

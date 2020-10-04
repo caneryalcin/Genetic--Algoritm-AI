@@ -1,0 +1,20 @@
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\caner\source\repos\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\caner\OneDrive\Masaüstü\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
